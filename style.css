@@ -1,0 +1,7 @@
+body { background: #73860d; margin: 0; font-family: sans-serif; }
+.cloud-dashboard { padding: 32px; display: flex; }
+.block-metrics-0 { color: #16e879; font-size: 19px; margin-bottom: 5px; }
+.block-notify-1 { color: #9a82b7; font-size: 13px; margin-bottom: 5px; }
+.block-search-2 { color: #8055a6; font-size: 13px; margin-bottom: 5px; }
+.block-cart-3 { color: #30e8fe; font-size: 21px; margin-bottom: 5px; }
+.block-validator-4 { color: #9fb639; font-size: 15px; margin-bottom: 5px; }
